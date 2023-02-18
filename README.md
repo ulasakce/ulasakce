@@ -1,13 +1,11 @@
 <h2 align="left">Hi 👋! My name is Ulas Akce and I'm a freelance developer from Australia</h2>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ulasakce" height="150" alt="stats graph"  />
-  
+  <img src="https://profile-counter.glitch.me/ulasakce/count.svg?" />
+</div>
   <img align="right" height="150" src="https://media.tenor.com/tmNnUiYvzvUAAAAd/eren-eren-yeager.gif"  />
 
-</div>
+
 
 ###
 
@@ -52,4 +50,18 @@
   </a>
 </div>
 
-###
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ulasakce&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ulasakce&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ulasakce&theme=dracula&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ulasakce&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/UlasAkce) 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
+

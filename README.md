@@ -56,13 +56,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ulasakce/ulasakce/blob/output/snake.svg" alt="Snake animation" />
-
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/ulasakce/ulasakce/blob/main/snake.yml" alt="Snake animation" />
-
-###
+![Snake animation](https://github.com/{{ulasakce}}/{{ulasakce}}/blob/output/github-contribution-grid-snake.svg)

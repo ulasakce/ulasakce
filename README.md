@@ -56,9 +56,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ulasakce/count.svg?"  />
-</div>
+<img src="https://raw.githubusercontent.com/ulasakce/ulasakce/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
